@@ -76,7 +76,7 @@ public class JoueurTest {
     @Test
     public void testEquals() {
         Joueur j1 = new Joueur("baroqueen", "", "", 0);
-        assertEquals(j1, joueurs.get(0));
+        assertEquals(j1, joueurs.get(1)));
     }
 
     @Test
